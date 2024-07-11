@@ -63,7 +63,15 @@ Tehran, Iran
 - Thesis: **Implementation of a Computer-based Control for Ball & Beam System**.
 - Related coursework: Mechatronics \| Automatic Control
 
-
+Skills
+======
+* Programming:
+  * Python, C/C++, MATLAB, Tensorflow, Keras, Pytorch
+* Softwares:
+  * RoboDK, SOLIDWORKS, AutoCAD
+* Other:
+  * Simulink, PLC, ROS, Arduino 
+<!--
 Education
 ======
 * M.A.Sc in Mechanical Engineering, Concordia University, 2024
@@ -116,3 +124,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
