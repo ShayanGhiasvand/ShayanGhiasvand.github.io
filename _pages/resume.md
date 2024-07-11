@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+You can download a PDF copy of my resume [here](url)
+
 {% include base_path %}
 
 # Experience
