@@ -9,17 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-## Experience
+# Experience
 
 **Research Assistant in AI Robotics**  
 *Concordia University*  
 Sep 2021 -- Dec 2023  
 Montréal, Canada
 
-- **Automating Satellite Tracking** with two data-driven methods:
-  - **Deep Learning Method**: Introduced an **original DNN-based Visual Servoing** method, demonstrating a **32% reduction in pose error** and a **22% improvement in velocity precision** compared to conventional methods. [video](https://youtube.com/shorts/YN21YdWbZBo?feature=share)
-  - **Optimization Method**: **Optimized a novel image feature function** to reduce motion coupling in visual servoing, achieving an **87% improvement in decoupling efficiency**.
-- **Novel Dataset Generation Method**: Specific for pose estimation, creating a **benchmark dataset** of 600K+ synthetic and real data and employing **DBSCAN** for outlier removal. [video](https://youtu.be/bw6qgphflkY)
+- Automating Satellite Tracking with two data-driven methods:
+  - **Deep Learning Method**: Introduced an original DNN-based Visual Servoing method, demonstrating a 32% reduction in pose error and a 22% improvement in velocity precision compared to conventional methods. [video](https://youtube.com/shorts/YN21YdWbZBo?feature=share)
+  - **Optimization Method**: Optimized a novel image feature function to reduce motion coupling in visual servoing, achieving an 87% improvement in decoupling efficiency.
+- **Novel Dataset Generation Method**: Specific for pose estimation, creating a benchmark dataset of 600K+ synthetic and real data and employing DBSCAN for outlier removal. [video](https://youtu.be/bw6qgphflkY)
 
 ---
 
@@ -31,7 +31,7 @@ Montréal, Canada
 - Developed two **RoboDK software Add-ins**:
   - **Real-time IBVS**: Successfully tracking 2D markers using a robotic manipulator, providing an automation feature to the software.
   - **3D Reconstruction using RGB-D cameras**: Retrieving point clouds and creating meshes to make 3D replicas of items.
-- Developed an automatic **bin filling algorithm**, serving as a base for **object pose estimation** and **bin picking algorithms**.
+- Developed an automatic bin filling algorithm, serving as a base for object pose estimation and bin picking algorithms.
 
 ---
 
@@ -40,9 +40,9 @@ Montréal, Canada
 May 2019 -- Jul 2019  
 Chemnitz, Germany
 
-- Introduced a novel method for the **real-time monitoring of the tensile fatigue test** by applying the **Acoustic Emission Sensor** and collecting data.
+- Introduced a novel method for the real-time monitoring of the tensile fatigue test by applying the Acoustic Emission Sensor and collecting data.
 
-## Education
+# Education
 
 **M.A.Sc in Mechanical Engineering**  
 *Concordia University*  
@@ -51,7 +51,7 @@ Montréal, QC
 
 - Supervisors: [Dr. Wen-Fang Xie](https://www.concordia.ca/faculty/wen-fang-xie.html) & [Dr. Abolfazl Mohebbi](https://abolfazlmohebbi.github.io/)
 - Thesis: **Image Moment-based Visual Servoing for Satellite Target Tracking using a Robotic Manipulator**.
-- Related coursework: Autonomous Robotics Systems | Industrial Automation | Industrial Control Systems | Adaptive Control
+- Related coursework: Autonomous Robotics Systems \| Industrial Automation \| Industrial Control Systems \| Adaptive Control
 
 ---
 
@@ -61,7 +61,7 @@ Sep 2014 -- May 2019
 Tehran, Iran
 
 - Thesis: **Implementation of a Computer-based Control for Ball & Beam System**.
-- Related coursework: Mechatronics | Automatic Control
+- Related coursework: Mechatronics \| Automatic Control
 
 
 Education
