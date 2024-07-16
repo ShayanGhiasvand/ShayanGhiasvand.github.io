@@ -2,15 +2,15 @@
 main:
   - title: "Projects"
     url: /projects/
+
+  - title: "Resume"
+    url: /resume/
     
   - title: "Publications"
     url: /publications/  
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Resume"
-    url: /resume/
     
   - title: "Guide"
     url: /markdown/
