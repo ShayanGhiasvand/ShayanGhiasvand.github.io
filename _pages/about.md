@@ -9,7 +9,7 @@ redirect_from:
 As a **robotics engineer**, I specialize in **AI integration** and have extensive hands-on experience with both **software** and **hardware** components of robotic systems. Throughout my studies, I have thoroughly researched **machine learning**, **deep neural networks**, and their applications in robotics, resulting in a thesis that illustrates the potential of AI in the field. My internships provided valuable industrial experience and enhanced my skills in **robotics software development**, **automation**, and **3D design**.
 
 
-A data-driven personal website
+<!--- A data-driven personal website
 ======
 
 
@@ -45,3 +45,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
