@@ -8,7 +8,64 @@ redirect_from:
 ---
 As a **robotics engineer**, I specialize in **AI integration** and have extensive hands-on experience with both **software** and **hardware** components of robotic systems. Throughout my studies, I have thoroughly researched **machine learning**, **deep neural networks**, and their applications in robotics, resulting in a thesis that illustrates the potential of AI in the field. My internships provided valuable industrial experience and enhanced my skills in **robotics software development**, **automation**, and **3D design**.
 
+## Experience
 
+<style>
+.experience-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px; /* Adjust margin as needed */
+}
+
+.company-logo {
+  max-width: 100px; /* Adjust the maximum width of the logo */
+  margin-right: 20px; /* Adjust spacing between logo and text */
+}
+
+.experience-info {
+  flex: 1;
+}
+</style>
+
+<!-- Concordia -->
+<div class="experience-container">
+  <img src="/images/McGill_logo.png" alt="McGill Logo" class="company-logo">
+  <div class="experience-info">
+    <p><strong>Research Assistant - AI Robotics Engineer | Sep 2021 - Dec 2023</strong></p>
+  </div>
+</div>
+
+<!-- RoboDK -->
+<div class="experience-container">
+  <img src="/images/YorkU_logo.png" alt="YorkU Logo" class="company-logo">
+  <div class="experience-info">
+    <p><strong>Intern - Robotic Software Developer | May 2022 - Sep 2022</strong></p>
+  </div>
+</div>
+
+<!-- Chemnitz University of Technology -->
+<div class="experience-container">
+  <img src="/images/Canadian_Tire_logo.png" alt="Canadian Tire Logo" class="company-logo">
+  <div class="experience-info">
+    <p><strong>Intern - Mechanical Design Engineer | May 2019 - Jul 2019</strong></p>
+  </div>
+</div>
+
+<!-- Tehran Jonoob Co. -->
+<div class="experience-container">
+  <img src="/images/TTC_logo.png" alt="TTC Logo" class="company-logo">
+  <div class="experience-info">
+    <p><strong>Intern - Mechanical Design Engineer | Jun 2017 - Sep 2017</strong></p>
+  </div>
+</div>
+
+<!-- Mapna Locomotive Engineering and Manufacturing Company -->
+<div class="experience-container">
+  <img src="/images/TMU_logo.png" alt="TMU Logo" class="company-logo">
+  <div class="experience-info">
+    <p><strong>Intern | Jun 2016 - Sep 2016</strong></p>
+  </div>
+</div>
 <!--- A data-driven personal website
 ======
 
