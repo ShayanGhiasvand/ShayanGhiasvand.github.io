@@ -40,6 +40,8 @@ redirect_from:
 </div>
 -->
 
+<div style="clear: both;"></div>
+
 ## Ball & Beam Controller Design & GUI
 <!-- Left side: project description -->
 <div style="width: 70%; float: left;">
@@ -78,9 +80,9 @@ redirect_from:
 <!-- Left side: project description -->
 <div style="width: 70%; float: left;">
   Developed a collaborative pick-and-place:
-◦ First manipulator picks the object from a conveyor belt and places it onto a mobile robot.
-◦ Mobile robot autonomously navigates to deliver objects to a second manipulator.
-◦ Second manipulator pick the object from the mobile robot and places it into a bin.
+- First manipulator picks the object from a conveyor belt and places it onto a mobile robot.
+* Mobile robot autonomously navigates to deliver objects to a second manipulator.
++ Second manipulator pick the object from the mobile robot and places it into a bin.
 
 <br/><a href="link-to-the-project">Project Link</a>
   <br/><span style="color:#FFA500;">Keywords:</span> ROS, GNU/Linux, Python, Gazebo, Path Planning, Mobile Robots, Manipulations
