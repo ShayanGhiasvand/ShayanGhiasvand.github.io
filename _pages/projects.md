@@ -80,6 +80,7 @@ redirect_from:
 <!-- Left side: project description -->
 <div style="width: 70%; float: left;">
   Developed a collaborative pick-and-place:
+  
 - First manipulator picks the object from a conveyor belt and places it onto a mobile robot.
 * Mobile robot autonomously navigates to deliver objects to a second manipulator.
 + Second manipulator pick the object from the mobile robot and places it into a bin.
