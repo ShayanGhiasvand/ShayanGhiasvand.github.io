@@ -10,6 +10,7 @@ redirect_from:
 <iframe src="/files/Resume_Shayan.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 You can download a PDF copy of my resume (1 page) [here](/files/Resume_Shayan.pdf).
+
 You can download a PDF copy of my CV (2 pages) [here](/files/CV_Shayan.pdf).
 
 <!--
