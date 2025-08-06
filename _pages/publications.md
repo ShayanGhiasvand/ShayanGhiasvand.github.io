@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+### [Deep neural network-based robotic visual servoing for satellite target tracking](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1469315/full)  
+*Published in: Frontiers in Robotics and AI, 2024*
 
-{% include base_path %}
+Recommended citation: Shayan Ghiasvand, Wen-Fang Xie, Abolfazl Mohebbi, "Deep neural network-based robotic visual servoing for satellite target tracking." *Frontiers in Robotics and AI*, 2024.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
